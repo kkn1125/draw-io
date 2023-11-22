@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram name="페이지-1" id="UaZniNHsIttSwsKOZA-m">
+        <mxGraphModel dx="907" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="xpDfus0swXIur9PDIwbl-1" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;rounded=1;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;startArrow=classic;startFill=1;" edge="1" parent="1" source="xpDfus0swXIur9PDIwbl-1" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="xpDfus0swXIur9PDIwbl-1" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="360" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="front" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="db" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;rounded=1;html=1;fontSize=20;startArrow=none;startFill=0;" edge="1" parent="1" source="10" target="xpDfus0swXIur9PDIwbl-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="360" width="50" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;font-size: 20px; font-style: italic;&quot;&gt;Project Mentee Union Structure&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="190" width="350" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="https://menteeunion.kro.kr" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="330" width="180" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="edgeStyle=none;rounded=1;html=1;fontSize=14;startArrow=none;startFill=0;" edge="1" parent="1" source="16" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="sentry" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="180" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="reverse proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="440" width="180" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
